@@ -4,11 +4,11 @@ layout: default
 
 Text can be **bold**, _italic_, or ~~strikethrough~~.
 
-[Link to another page](./another-page.html).
+[Link to Other ML and project pages](./another-page.html).
 
-There should be whitespace between paragraphs.
+This page is under construction and will be build as we move on to create more ML projects.
 
-There should be whitespace between paragraphs. We recommend including a README, or a file with information about your project.
+_More information follows in next months as i keep adding projects_.
 
 # First Project of Data Science
 
@@ -23,7 +23,7 @@ This is the first project of data science and ML from Abid Ahmed S
 ### Header 3
 
 ```js
-// Javascript code with syntax highlighting.
+// Sample avascript code with syntax highlighting for future use .
 var fun = function lang(l) {
   dateformat.i18n = require('./lang/' + l)
   return true;
@@ -31,17 +31,17 @@ var fun = function lang(l) {
 ```
 
 ```ruby
-# Ruby code with syntax highlighting
+# Sample Ruby code with syntax highlighting for future use.
 GitHubPages::Dependencies.gems.each do |gem, version|
   s.add_dependency(gem, "= #{version}")
 end
 ```
 
-#### Header 4
+#### List of topics covered in ML Progam
 
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
-*   This is an unordered list following a header.
+*   Python and Python for Data science basics.
+*   Statistics Analysis and Essentials.
+*   Case Studies.
 
 ##### Header 5
 
