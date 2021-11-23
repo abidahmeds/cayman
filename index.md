@@ -42,23 +42,28 @@ This is the first project of data science and ML from Abid Ahmed S
 | ok           | good `oreos`      | hmm   |
 | ok           | good `zoute` drop | yumm  |
 
-### There's a horizontal rule below this.
+### Personal Details.
 
 * * *
 
-### Here is an unordered list:
+### This is how i look :)
 
-*   Item foo
-*   Item bar
-*   Item baz
-*   Item zip
+![Abid](/images/IMG_7036.JPEG)
 
-### And an ordered list:
 
-1.  Item one
-1.  Item two
-1.  Item three
-1.  Item four
+### Definition lists can be used with HTML syntax.
+
+<dl>
+<dt>City where i live:</dt>
+<dd>Bengaluru</dd>
+<dt>Born</dt>
+<dd>1976</dd>
+<dt>Birthplace</dt>
+<dd>Tamilnadu</dd>
+<dt>Interests</dt>
+<dd>Take challenging tasks and solve it using ML</dd>
+</dl>
+
 
 ### And a nested list:
 
@@ -75,24 +80,6 @@ This is the first project of data science and ML from Abid Ahmed S
   - level 2 item
   - level 2 item
 - level 1 item
-
-### This is how i look :)
-
-![Abid](/images/IMG_7036.JPEG)
-
-
-### Definition lists can be used with HTML syntax.
-
-<dl>
-<dt>Name</dt>
-<dd>Godzilla</dd>
-<dt>Born</dt>
-<dd>1952</dd>
-<dt>Birthplace</dt>
-<dd>Japan</dd>
-<dt>Color</dt>
-<dd>Green</dd>
-</dl>
 
 ### Sample Code as of now to use in future for discussions or challenges 
 
