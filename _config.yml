@@ -1,5 +1,17 @@
-title: Abid Ahmed s
-description: Abid is a technical evangelist who has interests in developing ML models for real time Telco 5G SW.
+title: Abid Ahmed S
+description:
+  <p align="center">
+  <a href="pdf/resume.pdf">Resume</a> |
+  <a href="https://www.linkedin.com/in/abidahmeds/">LinkedIn</a>
+  
+  <br>   
+  I am a technical evangelist who has interests in developing ML models for real time Telco 5G SW.
+  working on Data Science, Big Data, Spark, Machine learning & NLP related problems.
+  working in Ericsson India in telecom domain for last 6 years.
+  worked in Alcatel-Lucent India for 17 years in Telco, Multimedia, IoT domains.
+  <br>
+  </p>
+description: A
 show_downloads: true
 google_analytics:
 theme: jekyll-theme-cayman
