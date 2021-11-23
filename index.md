@@ -20,7 +20,7 @@ This is the first project of data science and ML from Abid Ahmed S
 >
 > This is a important part of the project.
 
-### Header 3
+### Sample Code as of now to use in future for discussions or challenges 
 
 ```js
 // Sample avascript code with syntax highlighting for future use .
@@ -37,19 +37,19 @@ GitHubPages::Dependencies.gems.each do |gem, version|
 end
 ```
 
-#### List of topics covered in ML Progam
+#### List of topics covered in ML Progam this month
 
 *   Python and Python for Data science basics.
 *   Statistics Analysis and Essentials.
 *   Case Studies.
 
-##### Header 5
+##### List of topics finished until now 
 
-1.  This is an ordered list following a header.
-2.  This is an ordered list following a header.
-3.  This is an ordered list following a header.
+1.  Python and Python for Data science basics.
+2.  Exploratory Data Analysis.
+3.  SW Version control and code mgmt using git/github .
 
-###### Header 6
+###### Table format kept to manage filling details in future
 
 | head1        | head two          | three |
 |:-------------|:------------------|:------|
