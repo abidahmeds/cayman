@@ -2,11 +2,9 @@
 layout: default
 ---
 
-Text can be **bold**, _italic_, or ~~strikethrough~~.
-
 [Link to Other ML and project pages](./another-page.html).
 
-This page is under construction and will be build as we move on to create more ML projects.
+**This page is under construction and will be build as we move on to create more ML projects.**
 
 _More information follows in next months as i keep adding projects_.
 
