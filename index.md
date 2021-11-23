@@ -78,7 +78,7 @@ This is the first project of data science and ML from Abid Ahmed S
 
 ### Small image
 
-![Octocat](https://github.githubassets.com/images/icons/emoji/octocat.png)
+![Abid](/images/IMG_7036.JPEG)
 
 ### Large image
 
