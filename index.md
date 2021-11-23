@@ -76,13 +76,9 @@ This is the first project of data science and ML from Abid Ahmed S
   - level 2 item
 - level 1 item
 
-### Small image
+### This is how i look :)
 
 ![Abid](/images/IMG_7036.JPEG)
-
-### Large image
-
-![Branching](https://guides.github.com/activities/hello-world/branching.png)
 
 
 ### Definition lists can be used with HTML syntax.
